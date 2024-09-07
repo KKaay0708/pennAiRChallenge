@@ -9,10 +9,11 @@ For Video Case:
 1. Clone the repository to Github Desktop
 2. Open in Visual Studio Code
 3. Download Given Video linked: [https://drive.google.com/file/d/1yY7xvWigyv9UQOOSgaDck_8a4I1QCjiH/view?usp=sharing](url)
-   <iframe src="https://drive.google.com/file/d/1yY7xvWigyv9UQOOSgaDck_8a4I1QCjiH/preview" width="640" height="480" allow="autoplay"></iframe>
 5. Add the downloaded video to the same folder in Visual Studio Code
 6. Run the code and run the new file written to the folder
 
 Video Case Result:
 [https://drive.google.com/file/d/128Zoe20vZ5RvEA4Zk7LEyYQhtxt5TDoc/view?usp=sharing
 ](url)
+
+<iframe src="https://drive.google.com/file/d/128Zoe20vZ5RvEA4Zk7LEyYQhtxt5TDoc/preview" width="640" height="480" allow="autoplay"></iframe>
