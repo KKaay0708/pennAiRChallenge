@@ -15,5 +15,3 @@ For Video Case:
 Video Case Result:
 [https://drive.google.com/file/d/128Zoe20vZ5RvEA4Zk7LEyYQhtxt5TDoc/view?usp=sharing
 ](url)
-
-<iframe src="https://drive.google.com/file/d/128Zoe20vZ5RvEA4Zk7LEyYQhtxt5TDoc/preview" width="640" height="480" allow="autoplay"></iframe>
